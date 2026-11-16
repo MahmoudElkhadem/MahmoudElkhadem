@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Mahmoud Elkhadem 👋
 
-<!--
-**MahmoudElkhadem/MahmoudElkhadem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Flutter Developer** building clean, fast, cross-platform mobile apps for Android and iOS.
 
-Here are some ideas to get you started:
+## What I do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Build production-ready mobile apps with **Flutter** and **Dart**
+- Turn Figma designs into smooth, pixel-perfect UIs
+- Write maintainable code with clean architecture and solid state management
+- Connect apps to REST APIs and Firebase backends
+
+## 🛠️ Tech Stack
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+**State management:** Provider · Bloc/Cubit · Riverpod
+**Backend & data:** REST APIs · Firebase · SQLite / Hive
+
+## 📌 Featured Projects
+
+– Drive Wise: A car discovery and comparison app that helps users choose suitable vehicles, compare specifications, and make informed buying
+decisions using Flutter, Dart, Firebase, and Hive.
+
+- E-Commerce App: A shopping application that allows users to browse products, manage their carts, authenticate accounts, and complete online payments using Flutter, Dart, REST APIs, Retrofit, and Firebase.
+
+## 🌱 Currently
+
+- Improving my skills in clean architecture and app performance
+- Open to new opportunities and collaborations
+
+## 📫 Get in touch
+
+- Email: mahmodelkhadem17.com
+- LinkedIn: https://www.linkedin.com/in/mahmoud-elkhadem-1391a1384
+
+
